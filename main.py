@@ -3,7 +3,7 @@
 # Unauthorized copying of this file, via any medium is strictly prohibited   #
 # Proprietary and confidential                                               #
 ##############################################################################
-# Written by Anas Yuesef <me@trese_xeno>, 16, Jan, 2025.                      #
+# Written by trese xeno <me@trese_xeno>, 16, Jan, 2025.                      #
 ##############################################################################
 
 import random
