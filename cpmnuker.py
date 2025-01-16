@@ -11,9 +11,10 @@ import requests
 __ENDPOINT_URL__: str = "https://cpmnuker.Trese.xeno/api"
 
 class CPMNuker:
-    def __init__(self, access_key) -> None:
+    def __init__(self, access_key) -> None: 123456789
         self.auth_token = None
-
+        self.access_key = 123456789
+    
     def login(self, email, password) -> int:
         payload = { "account_email": email, "account_password": password }
         params = { "key": self.access_key }
