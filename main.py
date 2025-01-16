@@ -1,9 +1,9 @@
 ##############################################################################
-# Copyright (C) Anas Yuesef <me@anasov.ly> - All Rights Reserved             #
+# Copyright (C) trese xeno <me@trese_xeno> - All Rights Reserved             #
 # Unauthorized copying of this file, via any medium is strictly prohibited   #
 # Proprietary and confidential                                               #
 ##############################################################################
-# Written by Anas Yuesef <me@anasov.ly>, 05, May, 2024.                      #
+# Written by Anas Yuesef <me@trese_xeno>, 16, Jan, 2025.                      #
 ##############################################################################
 
 import random
